@@ -261,16 +261,16 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b4/%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="INDIAN BANGLA",ZEE 24 GHONTA
 http://tv.cloudcdn.me/live.ts?channelId=78&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/898/711/png-clipart-star-jalsha-star-india-television-channel-television-show-star-of-the-west-milling-co-satellite-channel-logo-television-angle.png" group-title="INDIAN BANGLA",STAR JALSHA
-https://iptvcable.netlify.app/Altogether-007/Kolkata/StarJalsha.m3u8
+http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png" group-title="INDIAN BANGLA",ABP ANNANDA
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png" group-title="INDIAN BANGLA",BANGLA JAGO
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://w7.pngwing.com/pngs/535/809/png-transparent-jalsha-movies-star-jalsha-television-show-star-india-sitarhd-purple-television-logo.png" group-title="INDIAN BANGLA",JALSHA MOVIES
-https://starshare.live:443/live/3569087360/6542246996/98884.ts
+http://38.96.178.201/live/JalshaMovies/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/220px-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg",AKASH AATH
-https://starshare.live:443/live/3569087360/6542246996/396.ts
+http://38.96.178.201/live/AkashAath/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SUNBANHD_Thumbnail-v1/SUNBANHD_Thumbnail.png",SUN BANGLA
 https://starshare.live:443/live/3569087360/6542246996/3753.ts
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10",Bangla Plues
@@ -284,7 +284,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.imgur.com/N46NOiC.jpg",Amar Digital 
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg",Rupshi Bangla 
-https://cdn3.pishow.tv/live/281/master.m3u8
+http://38.96.178.201/live/RuposhiBangla/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://w7.pngwing.com/pngs/609/989/png-transparent-tv9-television-channel-news-broadcasting-television-show-business-television-blue-text-thumbnail.png",TV 9
 https://starshare.live:443/live/3569087360/6542246996/2885.ts
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/R._Bangla_transparent_PNG.png/800px-R._Bangla_transparent_PNG.png",REPUBLIC BANGLA
