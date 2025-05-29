@@ -38,27 +38,26 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESH",DESH TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
+http://103.163.247.39:80/local_out/deshtv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESH",EKHON TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+http://38.96.178.201/live/EkhonTV/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/B/bangla-vision-tv-channel-logo-51DF1904E8-seeklogo.com.png" group-title="BANGLADESH",BANGLA VISION
-http://tv.cloudcdn.me:80/live.ts?channelId=84&uid=10016&deviceMac=00:1A:79:20:6F:F3
+http://38.96.178.201/live/BanglaVision/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" group-title="BANGLADESH",EKUSHEY TV
-https://list.iptvcat.com/my_list/s/0e7093b49b44e5546367f5c6590df34b.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="BANGLADESH",RTV
-https://evbr.short.gy/BDStreamHub/R_Tv.m3u
-http://tv.cloudcdn.me/live.ts?channelId=112&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://103.163.247.39:80/local_out/rtv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg" group-title="BANGLADESH",RTV MUSIC
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtvmusic.stream/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://iili.io/HC82WBV.png" group-title="BANGLADESH",SA TV
-http://tv.cloudcdn.me/live.ts?channelId=114&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+http://103.175.242.10:8080/hls/satv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="BANGLADESH",ASIAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
