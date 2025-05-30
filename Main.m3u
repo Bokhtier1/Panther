@@ -30,13 +30,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 
 
-
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/861/476/png-clipart-bangladesh-ekattor-tv-television-channel-atn-news-others-miscellaneous-television.png" ,EKATTOR TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.tradebangla.com.bd/images/business/cover/2017/12/12/523121217065925.png" ,NEWS 24
-
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" ,ATN NEWS
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
@@ -200,19 +197,19 @@ http://starshare.live:8080/live/Leroy123/Leroy123/3802.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://www.natunsomoy.net/uploads/shares/jpgtopngconverter-com_-_2024-08-21T105850.117-2024-08-21-10-59-02.jpg" group-title="ISLAMIC",PEACE TV BANGLA
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://www.natunsomoy.net/uploads/shares/jpgtopngconverter-com_-_2024-08-21T105850.117-2024-08-21-10-59-02.jpg" ,PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://banner2.cleanpng.com/20180624/yux/kisspng-peace-tv-bangla-youtube-television-channel-5b2f5cc5f0f302.9663932315298305979869.jpg" group-title="ISLAMIC",PEACE TV ENGLISH
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://banner2.cleanpng.com/20180624/yux/kisspng-peace-tv-bangla-youtube-television-channel-5b2f5cc5f0f302.9663932315298305979869.jpg" ,PEACE TV ENGLISH
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1153758706347253760/s2iOPRkj_400x400.png" group-title="ISLAMIC",IQRA BANGLA
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://pbs.twimg.com/profile_images/1153758706347253760/s2iOPRkj_400x400.png" ,IQRA BANGLA
 http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.imgpile.com/f/58KYg4.jpg" group-title="ISLAMIC",TIME TV
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://cdn.imgpile.com/f/58KYg4.jpg" ,TIME TV
 https://starshare.live:443/live/3569087360/6542246996/2882.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" group-title="ISLAMIC",ISLAM BANGLA
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" ,ISLAM BANGLA
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png" group-title="ISLAMIC",DEEN TV UK
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png" ,DEEN TV UK
 
-#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/809/244/png-clipart-tvone-television-batu-logo-streaming-media-others-text-indonesia.png" group-title="ISLAMIC",TV ONE
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://e7.pngegg.com/pngimages/809/244/png-clipart-tvone-television-batu-logo-streaming-media-others-text-indonesia.png" ,TV ONE
 
 
 
