@@ -262,7 +262,6 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=78&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://e7.pngegg.com/pngimages/898/711/png-clipart-star-jalsha-star-india-television-channel-television-show-star-of-the-west-milling-co-satellite-channel-logo-television-angle.png" ,STAR JALSHA
 http://38.96.178.201/live/STARJALSHA/index.m3u8
-
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png" ,ABP ANNANDA
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png" ,BANGLA JAGO
@@ -303,6 +302,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://curl.pk/img/u/0bd18c374b345d10f04ddb205756c3a04671.png",CINEPLEX HD
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://curl.pk/img/u/0bd18c374b345d10f04ddb205756c3a04671.png",Colors Cineplex (FHD)
+http://watchindia.net:8880/40972/04523/803
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-superhits-in.png",COLORS CINEPLEX SUPERHITS
 
@@ -311,13 +311,15 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://i.ibb.co/vZX4Yh3/miniplex-fb.png",MINIPLEX (FHD)
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="http://geo-iptv.com/channels_icon_api/07547230daed982fcf56f85dccfb9617.png",SONY MAX (FHD)
+http://watchindia.net:8880/40972/04523/788
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star GOLD (FHD)
+http://watchindia.net:8880/40972/04523/785
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://i.ibb.co/qkgW1nd/c0a0c8607691347e22942f2b86473199.png",Star Gold SELECT (FHD)
+http://watchindia.net:8880/40972/04523/784
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-cinema-white.png",ZEE CINEMA HD
-
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png" ,BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
@@ -329,16 +331,18 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest?cb=20210826143243" ,ZEE ANMOL CINEMA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema.m3u8
+http://watchindia.net:8880/40972/04523/820
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Zee_Bollywood.jpg" ,ZEE BOLLYWOOD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
+http://watchindia.net:8880/40972/04523/822
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-cinema-white.png" ,ZEE CINEMA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema.m3u8
+http://watchindia.net:8880/40972/04523/787
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://i.imgur.com/REO6aFZ.png" ,& PICTURES HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
+http://watchindia.net:8880/40972/04523/783
+
+
 
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" ,AL ZAZIRA
