@@ -13,75 +13,78 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/640px-Sangsad_Television_Emblem.svg.png",SONGSOD TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://cdn6.aptoide.com/imgs/0/9/c/09c01e7560f18eee5732a88b877b7793_icon.png" group-title="BANGLADESH",JAMUNA TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cdn6.aptoide.com/imgs/0/9/c/09c01e7560f18eee5732a88b877b7793_icon.png" ,JAMUNA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png" group-title="BANGLADESH",CHANNEL 24
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png" ,CHANNEL 24
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg" group-title="BANGLADESH",SOMOY TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg" ,SOMOY TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/4a/a2/7e/4aa27ecf94ecb60290431ff1b3de6b8e.jpg" group-title="BANGLADESH",DBC NEWS
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.pinimg.com/originals/4a/a2/7e/4aa27ecf94ecb60290431ff1b3de6b8e.jpg" ,DBC NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/820/350/png-clipart-bangladesh-independent-television-television-channel-independent-international-tv-independent-television-authority-television-text-thumbnail.png" group-title="BANGLADESH",INDEPENDENT TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/820/350/png-clipart-bangladesh-independent-television-television-channel-independent-international-tv-independent-television-authority-television-text-thumbnail.png"  ,INDEPENDENT TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/861/476/png-clipart-bangladesh-ekattor-tv-television-channel-atn-news-others-miscellaneous-television.png" group-title="BANGLADESH",EKATTOR TV
+
+
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/861/476/png-clipart-bangladesh-ekattor-tv-television-channel-atn-news-others-miscellaneous-television.png" ,EKATTOR TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.tradebangla.com.bd/images/business/cover/2017/12/12/523121217065925.png" group-title="BANGLADESH",NEWS 24
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.tradebangla.com.bd/images/business/cover/2017/12/12/523121217065925.png" ,NEWS 24
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="BANGLADESH",ATN NEWS
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" ,ATN NEWS
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESH",DESH TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" ,DESH TV
 http://103.163.247.39:80/local_out/deshtv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESH",EKHON TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" ,EKHON TV
 http://38.96.178.201/live/EkhonTV/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/B/bangla-vision-tv-channel-logo-51DF1904E8-seeklogo.com.png" group-title="BANGLADESH",BANGLA VISION
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/B/bangla-vision-tv-channel-logo-51DF1904E8-seeklogo.com.png" ,BANGLA VISION
 http://38.96.178.201/live/BanglaVision/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" group-title="BANGLADESH",EKUSHEY TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" ,EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="BANGLADESH",RTV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV
 http://103.163.247.39:80/local_out/rtv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg" group-title="BANGLADESH",RTV MUSIC
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg" ,RTV MUSIC
 
 
-#EXTINF:-1  tvg-logo="https://iili.io/HC82WBV.png" group-title="BANGLADESH",SA TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://iili.io/HC82WBV.png" ,SA TV
 http://103.175.242.10:8080/hls/satv/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="BANGLADESH",ASIAN TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/k2adSjA.png" ,ASIAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLADESH",DEEPTO TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg" group-title="BANGLADESH",MOHONA TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg" ,MOHONA TV
 http://tv.cloudcdn.me/live.ts?channelId=103&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESH",T SPORTS
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T SPORTS
 http://xtv.ooo:8080/live/Irfan99383/8888/167590.ts
 
-#EXTINF:-1  tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="BANGLADESH",MOVIE BANGLA
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" ,MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-501D1EAC7E-seeklogo.com.png" group-title="BANGLADESH",ATN BANGLA
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-501D1EAC7E-seeklogo.com.png" ,ATN BANGLA
 http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESH",NTV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,NTV
 
 
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/N/ntv-channel-logo-D930884934-seeklogo.com.png" group-title="BANGLADESH",NTV UK
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/N/ntv-channel-logo-D930884934-seeklogo.com.png" ,NTV UK
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/58/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",BIJOY TV
@@ -99,10 +102,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/398/29/png-clipart-bangladesh-premier-league-channel-9-television-channel-bd-logo-purple-television.png",CHANNEL 9
 
 
-#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLADESH",DESHI TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" ,DESHI TV
 
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",GLOBAL TV
+#EXTINF:-1  group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",GLOBAL TV
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I
@@ -114,85 +117,85 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloud.matopath.com/mop/2022/09/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.png",Nagorik TV
 http://starshare.live:8080/live/Leroy123/Leroy123/3802.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO.png" group-title="BANGLADESH",CB24 TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO.png" ,CB24 TV
 
 
-#EXTINF:-1  tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/05/14113943/A1-Logo.png" group-title="BANGLADESH",CHANNEL A1
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/05/14113943/A1-Logo.png" ,CHANNEL A1
 
 
-#EXTINF:-1  tvg-logo="https://channeleurope.tv/wp-content/uploads/2024/02/373571474_848019183560949_5666054050353684484_n-520x293.png" group-title="BANGLADESH",CHANNEL EUROPE
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://channeleurope.tv/wp-content/uploads/2024/02/373571474_848019183560949_5666054050353684484_n-520x293.png" ,CHANNEL EUROPE
 
 
-#EXTINF:-1  tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="BANGLADESH",CHANNEL S BD
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" ,CHANNEL S BD
 
 
-#EXTINF:-1  tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="BANGLADESH",CHANNEL S UK
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" ,CHANNEL S UK
 
 
-#EXTINF:-1  tvg-logo="https://timetvplus.com/uploads/tv_image/deshe-bideshe-tv.jpg" group-title="BANGLADESH",DESHEBIDESHE TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://timetvplus.com/uploads/tv_image/deshe-bideshe-tv.jpg" ,DESHEBIDESHE TV
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/falgunitv.jpg" group-title="BANGLADESH",FALGUNI TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/falgunitv.jpg" ,FALGUNI TV
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="BANGLADESH",GAAN BANGLA
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" ,GAAN BANGLA
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/hometv.jpg" group-title="BANGLADESH",HOME TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/hometv.jpg" ,HOME TV
 
 
-#EXTINF:-1  tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" group-title="BANGLADESH",MON TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" group-title="BANGLADESH",MON TV
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv.jpg" group-title="BANGLADESH",ZODIAK TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv.jpg" group-title="BANGLADESH",ZODIAK TV
 
 
-#EXTINF:-1  tvg-logo="https://cdn.jagonews24.com/media/imgAllNew/BG/2019October/jagonews24-md-20191101153408.jpg" group-title="BANGLADESH",JAGO NEWS 24
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cdn.jagonews24.com/media/imgAllNew/BG/2019October/jagonews24-md-20191101153408.jpg" group-title="BANGLADESH",JAGO NEWS 24
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/jagoroni.jpg" group-title="BANGLADESH",JAGORONI TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/jagoroni.jpg" group-title="BANGLADESH",JAGORONI TV
 
 
-#EXTINF:-1  tvg-logo="https://www.newspapersstore.com/wp-content/uploads/2018/04/jonmobhumi-tv-live.jpg" group-title="BANGLADESH",JANMOVUMI
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.newspapersstore.com/wp-content/uploads/2018/04/jonmobhumi-tv-live.jpg" group-title="BANGLADESH",JANMOVUMI
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg" group-title="BANGLADESH",MATRI BHUMI TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg" group-title="BANGLADESH",MATRI BHUMI TV
 
 
-#EXTINF:-1  tvg-logo="https://www.mymillennium.tv/wp-content/uploads/2015/10/Millennium-TV-Logo.png" group-title="BANGLADESH",MILLENIUM TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.mymillennium.tv/wp-content/uploads/2015/10/Millennium-TV-Logo.png" group-title="BANGLADESH",MILLENIUM TV
 
 
-#EXTINF:-1  tvg-logo="https://www.mymillennium.tv/wp-content/uploads/2015/10/Millennium-TV-Logo.png" group-title="BANGLADESH",MILLENIUM 24 TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.mymillennium.tv/wp-content/uploads/2015/10/Millennium-TV-Logo.png" group-title="BANGLADESH",MILLENIUM 24 TV
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="BANGLADESH",NAN TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="BANGLADESH",NAN TV
 
 
-#EXTINF:-1  tvg-logo="https://www.ticonsys.com/assets/img/products/nrb.png" group-title="BANGLADESH",NRB TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.ticonsys.com/assets/img/products/nrb.png" group-title="BANGLADESH",NRB TV
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfoYKz8ANwL3W_tTEsgqjdBBhwJiTbwd7mQ&usqp=CAU" group-title="BANGLADESH",NOBANNO TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfoYKz8ANwL3W_tTEsgqjdBBhwJiTbwd7mQ&usqp=CAU" group-title="BANGLADESH",NOBANNO TV
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/rajdhani.jpeg" group-title="BANGLADESH",RAJDHANI TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/rajdhani.jpeg" group-title="BANGLADESH",RAJDHANI TV
 
 
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/428/317/png-transparent-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-text-thumbnail.png" group-title="BANGLADESH",RUPOSHI BANGLA TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://w7.pngwing.com/pngs/428/317/png-transparent-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-text-thumbnail.png" group-title="BANGLADESH",RUPOSHI BANGLA TV
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg" group-title="BANGLADESH",THE CHANNEL TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg" group-title="BANGLADESH",THE CHANNEL TV
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg" group-title="BANGLADESH",TIME TELEVISION
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg" group-title="BANGLADESH",TIME TELEVISION
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg" group-title="BANGLADESH",TIMES 24
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg" group-title="BANGLADESH",TIMES 24
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour.png" group-title="BANGLADESH",TV ONE UK
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour.png" group-title="BANGLADESH",TV ONE UK
 
 
-#EXTINF:-1  tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/smtv.jpg" group-title="BANGLADESH",SM TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/smtv.jpg" group-title="BANGLADESH",SM TV
 
 
 
@@ -392,75 +395,6 @@ https://epiconvh.s.llnwi.net/epic/master.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T SPORTS HD
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS",DUBAI SPORTS HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",CRICKET: Fast Sports HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",CRICKET: FLOW SPORTS
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",CRICKET: RTA Sports
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",CRICKET: SONY 5 HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",CRICKET: SONY ESPN HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",CRICKET: SONY TEN 1 HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",CRICKET: SONY Ten 2 HD.
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",CRICKET: SONY TEN 3 HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",CRICKET: SONY TEN 4 (FHD)
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",CRICKET: Sports 18 Khel
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",CRICKET: STARSPORTS 3
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",CRICKET: T SPORTS.
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",CRICKET: THE PAPARE
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SPORTS",DSTV : SUPERSPORTS FOOTBALL HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SPORTS",DSTV : SUPERSPORTS PREMIERLEAGUE HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SPORTS",DSTV : SUPERSPORTS PSL HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SPORTS",DSTV: SUPERSPORTS LALIGA HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SPORTS",INDIE: Sports18_HD1
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS",MY: ASTRO SUPERSPORTS 1 HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS",MY: ASTRO SUPERSPORTS 2 HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS",MY: ASTRO SUPERSPORTS 3 HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS",MY: ASTRO SUPERSPORTS 4 HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",UK: EUROSPORTS
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",UK: EUROSPORTS 2 HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",UK: LIVERPOOL FC HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",UK: PremierSports 1
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",UK: PremierSports 2
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",UK: SKYSPORTS FOOTBALL
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",UK: SkySports PremierLeague HD
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",UK: TNT SPORT 1
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",UK: TNT SPORT 2
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",UK: TNT Sport 3
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",UK: TNT SPORT 4 FHD
 
 
 
