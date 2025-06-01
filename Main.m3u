@@ -53,13 +53,13 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" ,RTV
-http://103.163.247.39:80/local_out/rtv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+https://aynapubluc.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg" ,RTV MUSIC
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://iili.io/HC82WBV.png" ,SA TV
-http://103.175.242.10:8080/hls/satv/index.m3u8
+https://ayna-three.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/k2adSjA.png" ,ASIAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -80,7 +80,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,NTV
-
+https://ayna-three.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/N/ntv-channel-logo-D930884934-seeklogo.com.png" ,NTV UK
 
@@ -104,7 +104,7 @@ http://38.96.178.201/live/Channel9/index.m3u8
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8
 
 #EXTINF:-1  group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",GLOBAL TV
-
+https://ayna-three.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ChanneliNews
