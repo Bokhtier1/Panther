@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png" ,BTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png" ,BTV WORLD 
+#EXTINF:-1 group-title="BANGLADESH" https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png" ,BTV NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" ,BTV CHATTOGRAM 
@@ -39,7 +39,7 @@ https://ayna-three.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" ,DESH TV
-http://103.163.247.39:80/local_out/deshtv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+https://ayna-three.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" ,EKHON TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
@@ -62,22 +62,22 @@ https://aynapubluc.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3
 https://ayna-three.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/k2adSjA.png" ,ASIAN TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+https://ayna-three.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg" ,MOHONA TV
-http://tv.cloudcdn.me/live.ts?channelId=103&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+https://ayna-three.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T SPORTS
-http://xtv.ooo:8080/live/Irfan99383/8888/167590.ts
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T SPORTS HD
+http://tv.bdiptv.store/live/restream/restreamz/15263.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" ,MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-501D1EAC7E-seeklogo.com.png" ,ATN BANGLA
-http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,NTV
 https://ayna-three.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3u8
@@ -86,16 +86,16 @@ https://ayna-three.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3
 https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/58/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",BIJOY TV
-https://hand.top10wifibhaluka.com/in24/watch.php?id=f7c89459-37bf-4129-904d-33b0a4c0d590&format=.m3u8
+https://ayna-three.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tds-images-bn.thedailystar.net/sites/default/files/styles/big_202/public/images/2021/07/30/untitled_design_-_2021-07-30t202722.820.jpg", NEXUS TV
-https://hand.top10wifibhaluka.com/in24/watch.php?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9&format=.m3u8
+https://ayna-three.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://pngtom.com/files/preview/960x960/31703011479wqebh8cft9elrzdqqugzqhehr5yrd468tuiphrqkonwdmthjacx8nwtk2z7gh1u4hqituasci8qzbfrjugsdfcuf0q87npdkp4pa.png",BOISAKHI TV
-https://hand.top10wifibhaluka.com/in24/watch.php?id=92890d5c-473a-454c-ad10-2c6c0c91062a&format=.m3u8
 
+https://ayna-three.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",DURONTO TV
-https://hand.top10wifibhaluka.com/in24/watch.php?id=9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c&format=.m3u8
+https://ayna-three.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/398/29/png-clipart-bangladesh-premier-league-channel-9-television-channel-bd-logo-purple-television.png",CHANNEL 9
 http://38.96.178.201/live/Channel9/index.m3u8
@@ -107,13 +107,13 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92
 https://ayna-three.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ChanneliNews
+https://ayna-three.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cloud.matopath.com/mop/2022/09/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.png",Nagorik TV
-http://tv.bdiptv.store:80/live/restream/restreamzz/153.m3u8
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO.png" ,CB24 TV
 
@@ -142,8 +142,7 @@ http://38.96.178.201/live/GaanBangla/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/hometv.jpg" ,HOME TV
 
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" group-title="BANGLADESH",MON TV
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv.jpg" group-title="BANGLADESH",ZODIAK TV
 
@@ -179,7 +178,7 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://w7.pngwing.com/pngs/428/317/png-transparent-ruposhi-bangla-television-channel-bengali-live-television-bangla-tv-love-television-text-thumbnail.png" group-title="BANGLADESH",RUPOSHI BANGLA TV
-http://tv.bdiptv.store:80/live/restream/restreamzz/152.m3u8
+http://38.96.178.201/live/RuposhiBangla/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg" ,THE CHANNEL TV
 
@@ -251,7 +250,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c9/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%A7%E0%A7%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" ,ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://bdiptv.stream/uploads/tv_image/zee-bangla-cinema.png" ,ZEE BANGLA CINEMA
-http://tv.cloudcdn.me/live.ts?channelId=119&uid=13433&deviceMac=00:1A:79:00:97:A1
+https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/03/Zee-Bangla.jpg" ,ZEE BANGLA
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" ,SANGEET BANGLA
@@ -261,7 +260,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" ,CLORS BANGLA
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b4/%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" ,ZEE 24 GHONTA
-http://tv.cloudcdn.me/live.ts?channelId=78&uid=13433&deviceMac=00:1A:79:00:97:A1
+
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://e7.pngegg.com/pngimages/898/711/png-clipart-star-jalsha-star-india-television-channel-television-show-star-of-the-west-milling-co-satellite-channel-logo-television-angle.png" ,STAR JALSHA
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png" ,ABP ANNANDA
@@ -273,12 +272,12 @@ http://38.96.178.201/live/JalshaMovies/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg/220px-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg",AKASH AATH
 http://38.96.178.201/live/AkashAath/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SUNBANHD_Thumbnail-v1/SUNBANHD_Thumbnail.png",SUN BANGLA
-
+http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10",Bangla Plues
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg",Sananda TV
-http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
+https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8_XKoGc7ts0rBnQNnEjvtjox5BefdCwSbRXi3kRsPScpMUUAFUnvAd4&s=10",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.imgur.com/yldyrvA.jpg",Amar Bangla
@@ -287,15 +286,22 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg",Rupshi Bangla 
 http://38.96.178.201/live/RuposhiBangla/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" group-title="BANGLADESH",MON TV
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://w7.pngwing.com/pngs/609/989/png-transparent-tv9-television-channel-news-broadcasting-television-show-business-television-blue-text-thumbnail.png",TV 9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/R._Bangla_transparent_PNG.png/800px-R._Bangla_transparent_PNG.png",REPUBLIC BANGLA
-
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a8823f200168033.Y3JvcCwxMjU5LDk4NCwzMzAsOTM.png",KOLKATA NEWS
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ANANDABARTA.jpeg" ,ANANDA BARTA
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/samaykolkata.jpg" ,SOMOY KOLKATA
+https://server.playontv.in/SAMAYKOLKATA/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2021/12/News18-Bangla-nvmbr21-Logo.jpg" ,NEWS 18 BANGLA
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
 
 
 
