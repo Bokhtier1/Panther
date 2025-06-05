@@ -249,7 +249,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c9/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%A7%E0%A7%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" ,ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://bdiptv.stream/uploads/tv_image/zee-bangla-cinema.png" ,ZEE BANGLA CINEMA
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla_Cinema?file=Zee_bangla_cinema.png" ,ZEE BANGLA CINEMA
 https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/03/Zee-Bangla.jpg" ,ZEE BANGLA
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
