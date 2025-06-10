@@ -35,7 +35,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.tradebangla.com.bd/images/business/cover/2017/12/12/523121217065925.png" ,NEWS 24
 https://ayna-three.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo= "https://i.ibb.co/dD71xkF/atnnews.png" ,ATN NEWS
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" ,ATN NEWS
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg" ,DESH TV
@@ -70,7 +70,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg" ,MOHONA TV
 https://ayna-three.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T SPORTS HD
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxh4GJlxyhGoIe0w52tfWbqY-hAXRJbRgVJKem_xJ9NZ6JVWIRk7vZA7I&s=10" ,T SPORTS HD
 http://tv.bdiptv.store/live/restream/restreamz/15263.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" ,MOVIE BANGLA
