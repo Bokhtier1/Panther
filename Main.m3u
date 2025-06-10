@@ -1,13 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png" ,BTV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" ,BTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png" ,BTV NEWS
+#EXTINF:-1 group-title="BANGLADESH" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx0zse22PaHhsf2ARl1qugwG9luX5jzzxNRA&s" ,BTV NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" ,BTV CHATTOGRAM 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/640px-BTV_Chattogram_Logo.svg.png" ,BTV CHATTOGRAM 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/640px-Sangsad_Television_Emblem.svg.png",SONGSOD TV
@@ -35,10 +35,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.tradebangla.com.bd/images/business/cover/2017/12/12/523121217065925.png" ,NEWS 24
 https://ayna-three.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo= "https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png" ,ATN NEWS
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo= "https://i.ibb.co/dD71xkF/atnnews.png" ,ATN NEWS
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" ,DESH TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg" ,DESH TV
 https://ayna-three.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" ,EKHON TV
@@ -48,7 +48,7 @@ http://38.96.178.201/live/EkhonTV/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/B/bangla-vision-tv-channel-logo-51DF1904E8-seeklogo.com.png" ,BANGLA VISION
 http://38.96.178.201/live/BanglaVision/index.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" ,EKUSHEY TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" ,EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 
