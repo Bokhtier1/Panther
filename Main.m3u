@@ -437,31 +437,38 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/288/60/png-transparent-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue-text.png" ,Discovery Bangla
-
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" ,Discovery Science
 https://newsprotalhub.xyz/tipyop/live.m3u8?id=591ea81b1aba&e=.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/tWu1cHd.png" ,Investigation Discovery
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
-
+#EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic
+https://cdn1.pishow.tv/live/252/master.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/669/373/png-transparent-animal-planet-logo-television-channel-others-thumbnail.png" ,ANIMAL PLANET
 http://exm3u.extraott.com/live/2249871453/1991220000/400159783.m3u8
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/5lZ8dnC.png" ,Wild Earth
-
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" ,Love Nature
-
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/04/610X380-2.jpg" ,TRAVEL XP BANGLA
 
-#EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" ,TRAVEL 
 
+#EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" ,TRAVEL 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" ,TRAVEL XP ENG
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png" ,BBC Food
 
@@ -475,13 +482,8 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 goup-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" ,CGTN DOCUMENTORY
 
 
-
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" ,Epic 
-
-
-
-
-
+https://epiconvh.s.llnwi.net/epic/master.m3u8
 
 
 
