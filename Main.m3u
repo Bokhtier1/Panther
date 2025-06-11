@@ -130,6 +130,7 @@ https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" ,CHANNEL S UK
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://timetvplus.com/uploads/tv_image/deshe-bideshe-tv.jpg" ,DESHEBIDESHE TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8
@@ -234,9 +235,9 @@ http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" ,ISLAM BANGLA
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png" ,DEEN TV UK
-
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://e7.pngegg.com/pngimages/809/244/png-clipart-tvone-television-batu-logo-streaming-media-others-text-indonesia.png" ,TV ONE
-
+https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="" ,ISLAM BANGLA 
 https://cdn149.anystream.uk:8082/app/ic6a5l6/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="" ,DEEN TV
@@ -255,7 +256,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=908587&extension=ts&play_token=413IAp959Y
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney HD
-
+http://nonamevos.com:80/junior/junior/44966
 http://mega4k.top:8080/live/rashid/rashid/92416.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
 http://line.ultrab.xyz:80/live/ZeeALI1/465841/112761.m3u8
@@ -291,21 +292,29 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" ,9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/u6xCqD3.jpg",9x Jawla
+
+#EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://i.imgur.com/u6xCqD3.jpg",9x Jawla
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://i.ibb.co/D5gRqdk/Picsart-23-06-07-12-04-36-664.png" ,9X TASHAN
 
+
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/B4umusic.svg/261px-B4umusic.svg.png" ,B4U
+http://38.96.178.201/live/B4UMusic/index.m3u8
 
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPvDlX-p4KcOG0526Ywb18cJmN_nB-PovIg&s" ,ZOOM
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/579/872/non_2x/music-symbols-logo-and-icons-template-vector.jpg" ,HINDI HITS
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Kappa_tv_Channel_Logo.png" ,KAPPA TV
 
-#EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" ,MUSIC INDIA
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rZUgDYtM3xnNo01kUJfNv-Eo2pf9JY5Fd-7vAcjPGuSP_aFQp-rew--C&s=10",Only Music 
+#EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" ,MUSIC INDIA
+https://cdn-2.pishow.tv/live/226/226_1.m3u8
+
+#EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rZUgDYtM3xnNo01kUJfNv-Eo2pf9JY5Fd-7vAcjPGuSP_aFQp-rew--C&s=10",Only Music 
 https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
 
 
