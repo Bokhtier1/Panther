@@ -117,7 +117,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxh4GJlxyhGoIe0w52tfWbqY-hAXRJbRgVJKem_xJ9NZ6JVWIRk7vZA7I&s=10" ,T SPORTS HD
-
+https://tvsen5.aynaott.com/tsports/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" ,MOVIE BANGLA
 
@@ -353,10 +353,10 @@ https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla_Cinema?file=Zee_bangla_cinema.png" ,ZEE BANGLA CINEMA
-https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
+http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/03/Zee-Bangla.jpg" ,ZEE BANGLA
-http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" ,SANGEET BANGLA
 http://38.96.178.201/live/SangeetBangla/index.m3u8
@@ -481,7 +481,7 @@ http://watchindia.net:8880/40972/04523/820
 http://watchindia.net:8880/40972/04523/822
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-cinema-white.png" ,ZEE CINEMA
-http://watchindia.net:8880/40972/04523/787
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
 #EXTINF:-1 group-title="INDIA HINDI MOVIES" tvg-logo="https://i.imgur.com/REO6aFZ.png" ,& PICTURES HD
 http://watchindia.net:8880/40972/04523/783
