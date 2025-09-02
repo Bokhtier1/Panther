@@ -80,7 +80,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.pinimg.com/originals/4a/a2/7e/4aa27ecf94ecb60290431ff1b3de6b8e.jpg" ,DBC NEWS
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#http://xtv.ooo:8080/213112/213112/245914
+#http://kst.moonplex.net:8080/CH15/index.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+https://tvsen6.aynaott.com/dbcnews/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/820/350/png-clipart-bangladesh-independent-television-television-channel-independent-international-tv-independent-television-authority-television-text-thumbnail.png"  ,INDEPENDENT TV
 #http://xtv.ooo:8080/213112/213112/245916
