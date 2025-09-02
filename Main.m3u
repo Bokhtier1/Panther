@@ -178,7 +178,7 @@ https://tvsen6.aynaott.com/nexustv/index.m3u8
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",DURONTO TV
-
+https://tvsen4.aynaott.com/durontotv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://e7.pngegg.com/pngimages/398/29/png-clipart-bangladesh-premier-league-channel-9-television-channel-bd-logo-purple-television.png",CHANNEL 9
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
@@ -188,7 +188,7 @@ https://tvsen6.aynaott.com/channel9/index.m3u8
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8
 
 #EXTINF:-1  group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",GLOBAL TV
-
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I
 #http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
@@ -205,7 +205,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO.png" ,CB24 TV
-
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/05/14113943/A1-Logo.png" ,CHANNEL A1
 
@@ -253,16 +253,16 @@ https://iptvbd.live/metv1080/1080.m3u8
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.mymillennium.tv/wp-content/uploads/2015/10/Millennium-TV-Logo.png" group-title="BANGLADESH",MILLENIUM TV
-
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.mymillennium.tv/wp-content/uploads/2015/10/Millennium-TV-Logo.png" group-title="BANGLADESH",MILLENIUM 24 TV
-
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="BANGLADESH",NAN TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.ticonsys.com/assets/img/products/nrb.png" ,NRB TV
-
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfoYKz8ANwL3W_tTEsgqjdBBhwJiTbwd7mQ&usqp=CAU" ,NOBANNO TV
 
@@ -308,6 +308,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrzvYQFcG5RRBg-lfj7X1fNkXCWqYghiaAGd-6JPcEnwC9V5zg5eu0G0&s=10",Srk Tv
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cbntvusa.net/wp-content/uploads/2024/01/cbntvusa-logo-1.png",CBN Tv
@@ -324,6 +325,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 
 
+
+
+                                           #CARTOON
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOKtkFIEnXQ2kWRKrQArUd3lNG2WSlWEnSFPIdC9plQ&s",KHUSHBOO BANGLA
 
@@ -560,38 +564,48 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 
+
+
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/288/60/png-transparent-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue-text.png" ,Discovery Bangla
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
+https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" ,Discovery Science
-https://newsprotalhub.xyz/tipyop/live.m3u8?id=591ea81b1aba&e=.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/tWu1cHd.png" ,Investigation Discovery
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+
+#EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" ,NAT GEO HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
+http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" ,Net Geo wild
+http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic
-https://cdn1.pishow.tv/live/252/master.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/669/373/png-transparent-animal-planet-logo-television-channel-others-thumbnail.png" ,ANIMAL PLANET
-http://exm3u.extraott.com/live/2249871453/1991220000/400159783.m3u8
+
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/5lZ8dnC.png" ,Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" ,Love Nature
-http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/04/610X380-2.jpg" ,TRAVEL XP BANGLA
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" ,TRAVEL 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" ,TRAVEL XP ENG
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png" ,BBC Food
@@ -607,7 +621,7 @@ https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" ,Epic 
-https://epiconvh.s.llnwi.net/epic/master.m3u8
+
 
 
 
