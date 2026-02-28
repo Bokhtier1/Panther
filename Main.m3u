@@ -51,7 +51,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://tvsen6.aynaott.com/btvctg/index.m3u8
 
 
-#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" ,BTV World
 #http://xtv.ooo:8080/213112/213112/245908
 #http://103.230.105.252:1935/live/btv/manifest.m3u8
 https://tvsen6.aynaott.com/btvhd/index.m3u8
