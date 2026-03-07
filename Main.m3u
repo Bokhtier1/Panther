@@ -34,6 +34,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj", Saudi Quran
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="", WAZ TV
+https://tplay.live/originals/ilm-tv/index.m3u8
 
 
 
@@ -131,7 +133,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tds-images-bn.thedailystar.net/sites/default/files/styles/big_202/public/images/2021/07/30/untitled_design_-_2021-07-30t202722.820.jpg", NEXUS TV
-
+https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1772898057&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=be285bfd74b5cd727019c10e5a0dfdea
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://pngtom.com/files/preview/960x960/31703011479wqebh8cft9elrzdqqugzqhehr5yrd468tuiphrqkonwdmthjacx8nwtk2z7gh1u4hqituasci8qzbfrjugsdfcuf0q87npdkp4pa.png",BOISAKHI TV
@@ -309,13 +311,13 @@ https://live.cbntvusa.net/hls/cbntv/index.m3u8
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
-
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/index.m3u8?token=5a96d6dd2a577f9a7c38f26b7ad9f146c9b1bc55-600a26d2a5481ae53fa6ad9f2741c8f1-1772895396-1772891796
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney HD
-
+https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1772898227&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8f79ab11dd2db500b0de8753063985d9
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
-
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/index.m3u8?token=ba970ec20c22a6d68681871a541cc20c56817d17-37b7af48c163948052bbd5d05bddca73-1772895396-1772891796
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Cartoon 
 
@@ -334,9 +336,11 @@ https://live.cbntvusa.net/hls/cbntv/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="",NICK HINDI
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="",CARTOON NETWORK
+https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1772898226&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a8161b7d5b9a715c88f8acd8ee0eefe2
 
-
-
+#EXTINF:-1 group-title="KIDS" tvg-logo="",TOM & JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 
 
@@ -521,7 +525,7 @@ http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 http://watchindia.net:8880/40972/04523/783
 
 
-
+#WORLD NEWS
 
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" ,AL ZAZIRA
@@ -529,19 +533,30 @@ http://watchindia.net:8880/40972/04523/783
 
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" ,BBC NEWS 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="" ,DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="" ,EXPRESS NEWS
 
 
+
+#EXTINF:-1 group-title="WORLD NEWS" tvg-logo="" ,NDTV NEWS
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png ,CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
+
+
+
+
 
 
                             #INFORMATIVE
@@ -550,10 +565,10 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" ,Discovery Science
-
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=de62b30e62d68f06b8515c9e16e6a3199c3ebb14-9fab0123c6bfd9601c1863fe87186deb-1772895396-1772891796
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/tWu1cHd.png" ,Investigation Discovery
-
+https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=c22852a95cf9fd9c4ea6ece19c958b8783820867-154d1c04b9ff941932d6d38ddc21fd25-1772895396-1772891796
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" ,NAT GEO HD
 
@@ -563,13 +578,13 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic
-
+http://202.70.146.135:8000/play/a05o/index.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/669/373/png-transparent-animal-planet-logo-television-channel-others-thumbnail.png" ,ANIMAL PLANET
-
+https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=f826408bccc89fd6010d16601b4561772acf17aa-6b558ed0054d0cb8d1a72082f11f83da-1772895396-1772891796
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/5lZ8dnC.png" ,Wild Earth
-
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" ,Love Nature
 
@@ -581,9 +596,15 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" ,TRAVEL XP ENG
-
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png" ,BBC Food
+http://103.175.73.12:8080/live/143/143_0.m3u8
+
+#EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png" ,BBC EARTH
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/541/615/png-transparent-food-food-indian-cuisine-television-channel-india-television-food-text.png" ,FOOD FOOD HINDI
