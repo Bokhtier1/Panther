@@ -115,6 +115,9 @@ https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" ,DEEPTO TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://en.wikipedia.org/wiki/GTV_(Bangladeshi_TV_channel)#/media/File:Logo_of_GTV_(Bangladesh).svg" ,GTV
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg" ,MOHONA TV
 https://playztv-apps.pages.dev/mohona-tv/index.m3u8
 
@@ -460,7 +463,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg",Sananda TV
-
+https://live.sanandatelevision.in/sananda/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg",Rupshi Bangla 
 
