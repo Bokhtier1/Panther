@@ -135,7 +135,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tds-images-bn.thedailystar.net/sites/default/files/styles/big_202/public/images/2021/07/30/untitled_design_-_2021-07-30t202722.820.jpg", NEXUS TV
-https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1772898057&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=be285bfd74b5cd727019c10e5a0dfdea
+
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://pngtom.com/files/preview/960x960/31703011479wqebh8cft9elrzdqqugzqhehr5yrd468tuiphrqkonwdmthjacx8nwtk2z7gh1u4hqituasci8qzbfrjugsdfcuf0q87npdkp4pa.png",BOISAKHI TV
@@ -151,7 +151,7 @@ https://playztv-apps.pages.dev/channel-9/index.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1  group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png",GLOBAL TV
-https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=8fb9bd38618841293357937722d9f63c1b73d038-06a0f67bd51f8b70355fc4902b980f0f-1773419053-1773415453
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
@@ -231,7 +231,7 @@ https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="BANGLADESH",NAN TV
-https://app.ncare.live/live-orgin/nantv.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.ticonsys.com/assets/img/products/nrb.png" ,NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
@@ -306,19 +306,19 @@ https://live.cbntvusa.net/hls/cbntv/index.m3u8
 
 
 
-                                           #CARTOON
+                                           #KIDS
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOKtkFIEnXQ2kWRKrQArUd3lNG2WSlWEnSFPIdC9plQ&s",KHUSHBOO BANGLA
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/index.m3u8?token=5a96d6dd2a577f9a7c38f26b7ad9f146c9b1bc55-600a26d2a5481ae53fa6ad9f2741c8f1-1772895396-1772891796
+
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney HD
-https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1772898227&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8f79ab11dd2db500b0de8753063985d9
+
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/index.m3u8?token=ba970ec20c22a6d68681871a541cc20c56817d17-37b7af48c163948052bbd5d05bddca73-1772895396-1772891796
+
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Cartoon 
 
@@ -338,7 +338,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/index.m3u8?token=
 #EXTINF:-1 group-title="KIDS" tvg-logo="",NICK HINDI
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="",CARTOON NETWORK
-https://tvsen5.aynascope.net/cartoonnetwork/index.m3u8?e=1772898226&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a8161b7d5b9a715c88f8acd8ee0eefe2
+
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="",TOM & JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
