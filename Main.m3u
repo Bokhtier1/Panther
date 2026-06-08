@@ -609,7 +609,7 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 group-title="INDIA HINDI MOVIES", Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
-#EXTINF:-1 group-title="INDIA HINDI MOVIES" Goldmines Movies
+#EXTINF:-1 group-title="INDIA HINDI MOVIES", Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
@@ -621,15 +621,14 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
 
-#WORLD NEWS
+                                                     #WORLD NEWS
 
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" ,AL ZAZIRA
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" ,BBC NEWS 
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="" ,DW NEWS
@@ -647,7 +646,6 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 
 #EXTINF:-1 group-title="WORLD NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png ,CNN
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
@@ -663,10 +661,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" ,Discovery Science
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=de62b30e62d68f06b8515c9e16e6a3199c3ebb14-9fab0123c6bfd9601c1863fe87186deb-1772895396-1772891796
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/tWu1cHd.png" ,Investigation Discovery
-https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=c22852a95cf9fd9c4ea6ece19c958b8783820867-154d1c04b9ff941932d6d38ddc21fd25-1772895396-1772891796
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" ,NAT GEO HD
 
@@ -679,7 +677,7 @@ https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index
 http://202.70.146.135:8000/play/a05o/index.m3u8
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://w7.pngwing.com/pngs/669/373/png-transparent-animal-planet-logo-television-channel-others-thumbnail.png" ,ANIMAL PLANET
-https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=f826408bccc89fd6010d16601b4561772acf17aa-6b558ed0054d0cb8d1a72082f11f83da-1772895396-1772891796
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://i.imgur.com/5lZ8dnC.png" ,Wild Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -694,7 +692,7 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" ,TRAVEL XP ENG
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6f/BBC_Food_logo.png" ,BBC Food
 http://103.175.73.12:8080/live/143/143_0.m3u8
@@ -712,7 +710,7 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 https://0472.org/hls/cgtn.m3u8
 
 #EXTINF:-1 goup-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" ,CGTN DOCUMENTORY
-https://0472.org/hls/cgtn.m3u8
+
 
 #EXTINF:-1 group-title="INFORMATIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" ,Epic 
 
