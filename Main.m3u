@@ -1,11 +1,10 @@
 #EXTM3U
 
+                                #SPORTS
 
-
-#EXTINF:-1 group-title="WORLD CUP 2026" tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" ,T Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" ,T Sports
 https://trs1.aynaott.com/tsports/index.m3u8
 https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
-http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 
 
